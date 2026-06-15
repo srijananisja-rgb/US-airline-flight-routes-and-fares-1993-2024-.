@@ -1,6 +1,6 @@
 # U.S. Domestic Airfare & Air Travel Trends Analysis (1993–2024)
 
-A Tableau-based data visualization project exploring 30+ years of U.S. domestic airline pricing, fuel costs, passenger demand, revenue composition, and on-time performance — built for OPIM5501.
+A Tableau-based data visualization project exploring 30+ years of U.S. domestic airline pricing, fuel costs, passenger demand, revenue composition, and on-time performance — built for Visual Analytics Project.
 
 ---
 
